@@ -1,0 +1,8 @@
+.con{
+    background-color: aquamarine;
+    width: 40%;
+    padding-left: 50px;
+    background-image: -webkit-image-set();
+    justify-content: space-around;
+    align-items: center;
+}
